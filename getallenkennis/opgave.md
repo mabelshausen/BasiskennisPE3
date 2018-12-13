@@ -1,6 +1,6 @@
-#ASIGNMENT
+# ASIGNMENT
 
-###1110110
+### 1110110
 
 - P1: 1
 - P2: 1
@@ -10,7 +10,7 @@ Databits: 1110
 
 ---
 
-###xx1x110
+### xx1x110
 
 - P1: x110: 0 FOUT!
 - P2: x110: 0 FOUT!
